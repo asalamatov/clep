@@ -18,7 +18,7 @@ NOTE: if you want to take CLEP immediately, refer to step 2, you will pay $93.00
 ## 1. Watch a course to get a voucher for free CLEP
 
 - Go to [modernstates.org](https://modernstates.org/course)
-- Choose a free CLEP course you want.
+- Choose a free CLEP course you want. At NAU you can take maximum 10 CLEPs.
 - please refer to this page to see what courses can be taken: [NAU catalog](https://www.na.edu/documents/academics/catalog.pdf#page=41)
 - if you are not from NAU, please ask your university. Ex. [NLU Chicago catalog](https://nl.edu/media/nledu/content-assets/documents/student-services/office-of-the-registrar/registrar-forms/CLEP-Examination-Spring-2022.pdf)
 - for example: 
