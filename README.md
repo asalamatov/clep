@@ -12,7 +12,7 @@ Here are the steps
 2. Register for CLEP
 3. ✨Get Free Credits✨
 
-NOTE: if you want to take CLEP immediately, refer to [step 2](https://github.com/asalamatov/clep/edit/main/README.md#1-watch-a-course-to-get-a-voucher-for-free-clep), you will pay $93.00 for CLEP registration without voucher in [step 1](https://github.com/asalamatov/clep/edit/main/README.md#1-watch-a-course-to-get-a-voucher-for-free-clep)
+NOTE: if you want to take CLEP immediately, refer to step 2, you will pay $93.00 for CLEP registration without voucher in step 1
 
 
 ## 1. Watch a course to get a voucher for free CLEP
